@@ -148,7 +148,6 @@ function convertToRomanNumerals(num) {
       result = `${result}IX`;
       break;
     default:
-      console.log('sosi');
       break;
   }
 
